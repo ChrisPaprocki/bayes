@@ -1,1 +1,2 @@
 # bayes
+init
