@@ -14,7 +14,6 @@ class Classifier(threshold: Double,
     *
     * @param text the text to be checked
     * @param wn   words to be searched in given text
-    * @param text the text to be checked
     * @return wn presence
     */
   private def checkPresence(text: Array[String], wn: Array[String]) = {
